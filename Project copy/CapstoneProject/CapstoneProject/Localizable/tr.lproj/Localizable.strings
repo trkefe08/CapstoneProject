@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  CapstoneProject
+
+  Created by tarik.efe on 25.07.2022.
+  
+*/
+
+"Movies" = "Filmler";
+"Search" = "Arama";
+"Favorites" = "Favoriler";
+"Overview" = "Genel Bakış";
+"Original Title" = "Orijinal Başlık";
+"Original Language" = "Orijinal Dil";
+"Release Date" = "Yayın Tarihi";
+"Budget" = "Bütçe";
+"Revenue" = "Hasılat";
+"Genres" = "Türler";
+"Runtime" = "Çalışma Süresi";
+"Production" = "Üretim Şirketi";
+

@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  CapstoneProject
+
+  Created by tarik.efe on 25.07.2022.
+  
+*/
+"Movies" = "Movies";
+"Search" = "Search";
+"Favorites" = "Favorites";
+"Overview" = "Overview";
+"Original Title" = "Original Title";
+"Original Language" = "Original Language";
+"Release Date" = "Release Date";
+"Budget" = "Budget";
+"Revenue" = "Revenue";
+"Genres" = "Genres";
+"Runtime" = "Runtime";
+"Production" = "Production";
+
